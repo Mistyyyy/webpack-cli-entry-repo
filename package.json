@@ -1,0 +1,26 @@
+{
+  "name": "webpack-cli-entry-repo",
+  "version": "1.0.0",
+  "description": "webpack-cli-entry-repo",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mistyyyy/webpack-cli-entry-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mistyyyy/webpack-cli-entry-repo/issues"
+  },
+  "homepage": "https://github.com/Mistyyyy/webpack-cli-entry-repo#readme",
+  "devDependencies": {
+    "clean-webpack-plugin": "^3.0.0",
+    "webpack": "^5.0.0-beta.13",
+    "webpack-cli": "^4.0.0-beta.8"
+  }
+}
